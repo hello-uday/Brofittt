@@ -5,7 +5,7 @@ import * as SecureStore from 'expo-secure-store';
 import { setTokenHeader } from './app/constants/Axios';
 import * as SplashScreen from 'expo-splash-screen';
 
-import { 
+import {
   UserNav,
   StackNav,
   AdminNav,
